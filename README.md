@@ -7,3 +7,5 @@ Generic implementations of popular algorithms:
 - knapsack, a dynamic programming solution to the 0-1 knapsack problem
 # Nearest Neighbors
 - K Nearest Neighbors, simple algorithm for recommendations
+# K Means
+- An unsupervised learning, clustering algorithm
